@@ -26,7 +26,7 @@ alphabets[0]
 //   language: 'English',
 //   notes: 'This alphabet dates from ...',
 //   year: 1955,
-//   words: 'alpha bravo charlie delta echo ...'}
+//   words: ['alpha', 'bravo', 'charlie', 'delta', ...]}
 ```
 
 ## The Alphabets

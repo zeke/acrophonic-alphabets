@@ -1,0 +1,646 @@
+[
+  {
+    "name": "NATO",
+    "language": "English",
+    "notes": "This alphabet dates from about 1955 and is approved by the International Civil Aviation Organization, the FAA and the International Telecommunication Union. note that different bodies prefer different spellings, so one also sees: Alfa Juliett Juliette Oskar Viktor",
+    "year": null,
+    "words": "alpha bravo charlie delta echo foxtrot golf hotel india juliet kilo lima mike november oscar papa quebec romeo sierra tango uniform victor whiskey xray yankee zulu"
+  },
+  {
+    "name": "Telecom B",
+    "language": "English",
+    "notes": "Found also in Swedish, Dutch, Hungarian telephone directories. An 'analogy alphabet' in a Kenyan directory has Charlie and no Y. A Swiss directory: Andrew Charlie Lussy Queenie Sugar. French/German vocabulary books: Andrew Charlie Lucy Mike Nelly Sugar Xmas. English phrase books for Spanish/Italian speakers: Charlie. A 'British English' alphabet in a Langenscheidt dictionary: Andrew Charlie Lucy Queenie Sugar Xmas. Norwegian dictionary: Andrew Charlie Lucy Sugar Victory Xerxes. Collins Polish dictionary: Andrew Charlie Lucy Sugar Xmas..Used as an English alphabet by telephone operators in Israel",
+    "year": null,
+    "words": "alfred benjamin charles david edward frederick george harry isaac jack king london mary nellie oliver peter queen robert samuel tommy uncle victor william xray yellow zebra"
+  },
+  {
+    "name": "British A",
+    "language": "English",
+    "notes": "An 'international' alphabet in a Dutch telephone directory has: Danemark. A 'French' alphabet in a Hungarian directory has: Cassablanka Danemark Que'bec Upsala Zu\"rich. An 'international' alphabet in a business book for French has: Italy Kilogram Zu\"rich. the corresponding book for German has: Italy Kilogram Xanthippe Zu\"rich. An 'international' alphabet in a Langenscheidt dictionary: Danemark Madagaskar Que'bec Upsala Xanthippe Zu\"rich. An 'international' alphabet in a Larousse business book: Danemark Je'rusalem Que'bec Xanthippe..West Berlin telephone directory 1965: Danemark Je'rusalem Madagaskar Que'bec Upsala Xanthippe Zu\"rich. Santa Fe (Argentina) 1955: Dinamarca Habana Jerusale'n Kilogramo Nueva_York N~andubay Upsala Wa'shington Xantipo Yokoama. Azores 1966: Danemark Ita'lia Jerusale'm New-York Que'bec Upsala Yokoham..Used as a French alphabet by telephone operators in Israel",
+    "year": null,
+    "words": "amsterdam baltimore casablanca denmark edison florida gallipoli havana italia jerusalem kilogramme liverpool madagascar new_york oslo paris quebec roma santiago tripoli uppsala valencia washington xantippe yokohama zurich"
+  },
+  {
+    "name": "Bombay Telephone Directory",
+    "language": "English",
+    "notes": "",
+    "year": 1962,
+    "words": "army brother cinema doctor english father gold hotel india jam king lady mother navy orange paper queen raja sister table uncle victory water ray yellow zero"
+  },
+  {
+    "name": "Kenyan and Tanzanian Telephone Directories",
+    "language": "English",
+    "notes": "",
+    "year": 1966,
+    "words": "africa bombay charlie durban england freddie george harry india japan kenya london mombasa nairobi orange peter queen robert sugar tanga uganda victory william ray yellow zanzibar"
+  },
+  {
+    "name": "Johannesburg Telephone Directory",
+    "language": "English",
+    "notes": "Note similarity to Alfred Benjamin",
+    "year": 1965,
+    "words": "arthur betty charlie david edward frederick george harry isaac jane kate lucy mary nellie olive peter queen robert simon thomas union violet william ray york zero"
+  },
+  {
+    "name": "Malayan Telephone Directory",
+    "language": "English",
+    "notes": "",
+    "year": 1964,
+    "words": "australia bombay china denmark england fiji ghana hongkong india japan kedah london malacca norway osaka penang queensland russia singapore turkey uganda victoria wales x'ray yokohama zanzibar"
+  },
+  {
+    "name": "New York City Police",
+    "language": "English",
+    "notes": "Note similarity to ARRL and Western Union..Variants: Eddie Larry Nancy Thomas Yankee Yellow",
+    "year": null,
+    "words": "adam boy charlie david edward frank george henry ida john king lincoln mary nora ocean peter queen robert sam tom union victor william ray young zebra"
+  },
+  {
+    "name": "Nassau County Police, Long Island, New York",
+    "language": "English",
+    "notes": "",
+    "year": null,
+    "words": "adam boston chicago denver edward frank george henry ida john king lincoln mary nancy ocean peter queen robert sam thomas union victor william ray young zebra"
+  },
+  {
+    "name": "San Diego Pollice, California",
+    "language": "English",
+    "notes": "",
+    "year": null,
+    "words": "adam boy charles david edward frank george henry ida john king lincoln mary nora ocean paul queen robert sam tom unit victor william xray yellow zebra"
+  },
+  {
+    "name": "Hutchinson, Kansas Police",
+    "language": "English",
+    "notes": "",
+    "year": null,
+    "words": "adam boy charles david edward frank george henry ida john king lincoln mary nora ocean paul q robert sam tom union victor william ray yankee zebra"
+  },
+  {
+    "name": "Amateur Radio",
+    "language": "English",
+    "notes": "Alternative phonetics sometimes used unofficially in amateur radio..Also: Amsterdam, Baltimore, Brazil, Chile, Egypt, Finland, Geneva, Greece, Guatemala, Hawaii, Italy, Kentucky, King, Luxembourg, Montreal, Nicaragua, Portugal, Romania, Russia, Sweden, Texas, Uruguay, Venezuela",
+    "year": null,
+    "words": "america boston canada denmark england france germany honolulu i japan kilowatt london mexico norway ontario/ocean pacific q radio santiago/spain tokyo united victoria washington x yokohama zanzibar"
+  },
+  {
+    "name": "ARRL (American Radio Relay League)",
+    "language": "English",
+    "notes": "Note similarity to Western Union and Able Baker..Nowadays the ARRL endorses the NATO/ICAO/ITU alphabet",
+    "year": 1948,
+    "words": "adam baker charlie david edward frank george henry ida john king lewis mary nancy otto peter queen robert susan thomas union victor william ray young zebra"
+  },
+  {
+    "name": "Pre-1954 U.S. Navy Radio",
+    "language": "English",
+    "notes": "(Communications Handbook, 1945)..Note similarity to Able Buy Cast..Formerly used by IBM engineers for hex digits and pin positions. still used at at least one site.",
+    "year": 1945,
+    "words": "able baker charlie dog easy fox george how item jig king love mike nan oboe peter queen roger sugar tare uncle victor william ray yoke zebra"
+  },
+  {
+    "name": "RAF",
+    "language": "English",
+    "notes": "",
+    "year": 1942,
+    "words": "apple beer charlie dog edward freddy george harry in jug/johnny king love mother nuts orange peter queen roger/robert suga tommy uncle vic william ray yoke/yorker zebra"
+  },
+  {
+    "name": "US Navy",
+    "language": "English",
+    "notes": "",
+    "year": 1940,
+    "words": "affirmative baker cast dog easy fox george hypo interrogatory jig king love mike negative option preparatory queen roger sail tare unit victor william xray yoke zed"
+  },
+  {
+    "name": "Western Union",
+    "language": "English",
+    "notes": "",
+    "year": null,
+    "words": "adams boston chicago denver easy frank george henry ida john king lincoln mary new_york ocean peter queen roger sugar thomas union victor william ray young zero"
+  },
+  {
+    "name": "British Army",
+    "language": "English",
+    "notes": "",
+    "year": 1927,
+    "words": "ack beer charlie don edward freddy george harry ink johnnie king london monkey nuts orange pip queen robert sugar toc uncle vic william ray yorker zebra"
+  },
+  {
+    "name": "RAF",
+    "language": "English",
+    "notes": "",
+    "year": null,
+    "words": "ac beer charlie don edward freddie george harry ink johnnie king london monkey nuts orange pip queen robert sugar toc uncle vic william ray yorker zebra"
+  },
+  {
+    "name": "Royal Navy",
+    "language": "English",
+    "notes": "Wrens at Bletchley Park: Apple James Kenneth(?) Oliver Peter Quagga Unicorn William Xray",
+    "year": 1917,
+    "words": "apples butter charlie duff edward freddy george harry ink johnnie king london monkey nuts orange pudding queenie robert sugar tommy uncle vinegar willie xerxes yellow zebra"
+  },
+  {
+    "name": "US Army",
+    "language": "English",
+    "notes": "",
+    "year": 1916,
+    "words": "able buy cast dock easy fox george have item jig king love mike nap opal pup quack rush sail tape unit vice watch ray yoke zed"
+  },
+  {
+    "name": "British (perhaps Post Office approved)",
+    "language": "English",
+    "notes": "",
+    "year": 1914,
+    "words": "apple brother charlie dover eastern father george harry india jack king london mother november october peter queen robert sugar thomas uncle victoria wednesday xmas yellow zebra"
+  },
+  {
+    "name": "British Forces",
+    "language": "English",
+    "notes": "The OED has a reference for Beer and Emma dated 1891",
+    "year": 1904,
+    "words": "ack beer c d e f g h i j k l m n o pip q r s toc u vic w x y z"
+  },
+  {
+    "name": "A comme Anatole",
+    "language": "French",
+    "notes": "Contributor: Erik Tjong Kim Sang <erikt@let.rug.nl>",
+    "year": null,
+    "words": "anatole bernard c'ecile denise e fran5cois g'erard henri isidore jean kl'eber louis marcel nicole oscar pierre quital robert suzanne th'er`ese ursule victor wagon xavier yvonne zo'e"
+  },
+  {
+    "name": "Swiss Telephone Directory",
+    "language": "French",
+    "notes": "",
+    "year": 1993,
+    "words": "anna berthe ce'cile daniel emile franc,ois gustave henri ida jeanne kilo louise marie nicolas olga paul quittance robert suzanne the're`se ulysse victor william xavier yvonne zurich"
+  },
+  {
+    "name": "OUP Vocabulary Book",
+    "language": "French",
+    "notes": "",
+    "year": null,
+    "words": "anatole berthe ce'sar de'sire' euge`ne franc,ois gaston henri irma joseph kle'ber louis marcel nicolas oscar pierre que'bec robert suzanne the're`se ursule victor william xavier yvonne zoe'"
+  },
+  {
+    "name": "Langenscheidt Phrase Book",
+    "language": "French",
+    "notes": "",
+    "year": null,
+    "words": "anatole berthe ce'sar de'sire' emile franc,ois gaston henri isidore jean kle'ber louis marie nicolas oscar paul que'bec robert suzanne the'odore ursule victor wagon xavier yvonne zoe'"
+  },
+  {
+    "name": "Larousse Business Book",
+    "language": "French",
+    "notes": "Belgian versions: Caesar Fre'de'rique kilogram Sophie Ce'sar Emile Simon Xanthippe..Note: there are some parallel French/Dutch alphabets for use in Belgium",
+    "year": null,
+    "words": "arthur bruxelles caroline de'sire' e'mile fre'de'ric gustave henri isidore joseph kilogramme le'opold marie napole'on oscar piano quie'vrain robert suzanne te'le'phone ursule victor waterloo xavier yvonne ze'ro"
+  },
+  {
+    "name": "Berlitz and AA phrase books",
+    "language": "French",
+    "notes": "with the addition of E'mile for e-acute this is the official Post Office alphabet",
+    "year": null,
+    "words": "anatole berthe ce'lestin de'sire' euge`ne franc,ois gaston henri irma joseph kle'ber louis marcel nicolas oscar pierre quintal raoul suzanne the're`se ursule victor william xavier yvonne zoe'"
+  },
+  {
+    "name": "Official German Emergency Services",
+    "language": "German",
+    "notes": "Contributor: Hermann Schumacher <hschu@ebs.e-technik.uni-ulm.de> (official alphabet for emergency services, from \"KatS-Dv 810 - Sprechfunkdienst\", 1977)",
+    "year": 1977,
+    "words": "anton berta c\"asar dora emil friedrich gustav heinrich ida julius kaufmann ludwig martha nordpol otto paula quelle richard samuel theodor ulrich viktor wilhelm xanthippe ypsilon zacharias"
+  },
+  {
+    "name": "Another German Alphabet",
+    "language": "German",
+    "notes": "Contributor: mrosa@eso.org (Michael Rosa)",
+    "year": null,
+    "words": "anton berta caesar dora emil friedrich gustav heinrich ida julius karl ludwig martha nordpol otto paula quelle richard siegfried theodor ulrich viktor wilhelm xanthippe ypsilon zeppelin"
+  },
+  {
+    "name": "Another German Alphabet",
+    "language": "German",
+    "notes": "",
+    "year": null,
+    "words": "anton bertha c\"asar dora emil friederich gustav heinrich ida julius kaufmann ludwig martha nordpol otto paula quelle richard samuel theodor ulrich viktor wilhelm xanthippe ypsilon zacharias"
+  },
+  {
+    "name": "Swiss Telephone Directory",
+    "language": "German",
+    "notes": "[also Geneva directory 1966]",
+    "year": 1993,
+    "words": "anna bertha ca\"sar daniel emil friedrich gustav heinrich ida jakob kaiser leopold marie niklaus otto peter quelle rosa sophie theodor ulrich viktor wilhelm xaver yverdon zu\"rich"
+  },
+  {
+    "name": "Deutsche Bundespost",
+    "language": "German",
+    "notes": "",
+    "year": null,
+    "words": "anton bertha caesar dora emil friedrich gustav heinrich ida jakob konrad ludwig martha nordpol otto paula quelle richard siegfried theodor ulrich viktor wilhelm xantippe ypsilon zeppelin"
+  },
+  {
+    "name": "German Untitled",
+    "language": "German",
+    "notes": "",
+    "year": null,
+    "words": "anton berta caesar dora emil friedrich gustav heinrich ida johann kaufmann ludwig martha nordpol otto paula quer richard siegfried theodor ulrich viktor wilhelm xaver ypsilon zeppelin"
+  },
+  {
+    "name": "OUP Vocabulary Book",
+    "language": "German",
+    "notes": "",
+    "year": null,
+    "words": "anton berta ca\"sar dora emil friedrich gustav heinrich ida julius konrad ludwig martin nordpol otto paula quelle richard siegfried theodor ulrich viktor wilhelm xanten ypsilon zeppelin"
+  },
+  {
+    "name": "Collins vocabulary book",
+    "language": "German",
+    "notes": "",
+    "year": null,
+    "words": "anton berta ca\"sar dora emil friedrich gustav heinrich ida jerusalem kaufmann ludwig martha nordpol otto paula quelle richard samuel theodor ulrich viktor wilhelm xanthippe ypsilon zacharias"
+  },
+  {
+    "name": "Cassel business book",
+    "language": "German",
+    "notes": "",
+    "year": null,
+    "words": "anton berta caesar dora emil friedrich gustav heinrich ida julius kaufmann ludwig martha nordpol otto paula quelle richard siegfried theodor ulrich viktor wilhelm xanthippe ypsilon zacharias"
+  },
+  {
+    "name": "BBC Business Book (Standard Phone Alphabet)",
+    "language": "German",
+    "notes": "",
+    "year": null,
+    "words": "anton berta ca\"sar dora emil friedrich gustav heinrich ida julius kaufmann ludwig martha nordpol otto paula quelle richard siegfried/samuel theodor ulrich viktor wilhelm xanthippe ypsilon zeppelin/zacharias"
+  },
+  {
+    "name": "Collins Phrase Book",
+    "language": "German",
+    "notes": "",
+    "year": null,
+    "words": "anton berta caesar dora emil friedrich gustav heinrich ida julius konrad ludwig martin nordpol otto paula quelle richard siegfried theodor ulrich victor wilhelm xanten y zeppelin"
+  },
+  {
+    "name": "World War II",
+    "language": "German",
+    "notes": "(B-Bruno and F-Fritz were used in aircraft designations.)",
+    "year": null,
+    "words": "anton berta caesar dora emil friedrich gustav heinrich ida josef konrad/kurfurst ludwig martha nordpol otto paula quelle richard siegfried toni ulrich viktor wilhelm xantippe ypern zeppelin"
+  },
+  {
+    "name": "Morse Code Mnemonics",
+    "language": "German",
+    "notes": "(syllable with 'o' means dash).oe Oekonomie.ue Ueberkonto",
+    "year": null,
+    "words": "arno borvaselin coburg-gotha doria ernst friedrichsroda gomorrha herrenzimmer ida jawohl_odol kolberg_ost leonidas motor nora oekonom per_motorrad quohnsdorf_bei_forst revolver sabine tod uniform verbrennungstod weltnordpol xolabaphon york_yellowstone zoroaster"
+  },
+  {
+    "name": "A van Anna",
+    "language": "Dutch",
+    "notes": "Contributor: Erik Tjong Kim Sang <erikt@let.rug.nl>",
+    "year": null,
+    "words": "anna bernhard cornelis dirk eduard ferdinand gerard hendrik izaak jan karel lodewijk marie nico otto pieter quotient rudolf simon teunis utrecht victor willem xantippe ypsilon zaandam"
+  },
+  {
+    "name": "Collins Phrase Book",
+    "language": "Dutch",
+    "notes": "",
+    "year": null,
+    "words": "amsterdam bravo charlie dirk edam freddie goed help isaac jaap kilo lasso moeder nico otto paard quaker rudolf suiker tafel uur vogel wind xylofoon yankee zout"
+  },
+  {
+    "name": "Van Dale French-Dutch dictionary",
+    "language": "Dutch",
+    "notes": "",
+    "year": null,
+    "words": "anna bernhard cornelis dirk eduard ferdinand gerard hendrik isaak jan karel lodewijk marie nico otto pieter quebec richard simon theodoor utrecht victor willem xantippe ysbrand zeeland"
+  },
+  {
+    "name": "Belgian (Flemish)",
+    "language": "Dutch",
+    "notes": "[Note: there are some parallel French/Dutch alphabets for use in Belgium] Contributor: Erik Tjong Kim Sang <erikt@let.rug.nl>",
+    "year": null,
+    "words": "arthur brussel carolina desire emiel frederik gustaaf hendrik isidoor jozef kilogram leopold maria napoleon oscar piano qualite robert sofie telefoon ursula victor waterloo xavier yvonne zola"
+  },
+  {
+    "name": "Van Dale French-Dutch dictionary",
+    "language": "Dutch",
+    "notes": "",
+    "year": null,
+    "words": "anna bernhard cornelis dirk emil frederik gustaaf hendrik isidoor josef kilogram leopold maria napoleon oscar piano quie'vrain robert simon telefoon ursula victor waterloo xantippe yvonne zero"
+  },
+  {
+    "name": "Collins and Berlitz phrase books",
+    "language": "Spanish",
+    "notes": "[An AA phrase book has \"i griega\" for Y] [Collins dictionary and grammar: similar but Ine's/Israel Querido/Quebec Ulises/Uruguay]",
+    "year": null,
+    "words": "antonio barcelona carmen dolores enrique francia gerona historia ine's jose' kilo lorenzo madrid navarra oviedo pari's querido ramo'n sa'bado tarragona ulises valencia washington xiquena yegua zaragoza"
+  },
+  {
+    "name": "Madrid Ministries",
+    "language": "Spanish",
+    "notes": "",
+    "year": 1965,
+    "words": "alicante bilbao ca'diz dinamarca espan~a francia girona huelva italia jae'n kilo lugo madrid navarra oviedo portugal queso roma sevilla toledo u'nico valencia w x yugoslavia zaragoza"
+  },
+  {
+    "name": "The Telephonist's Alphabet (Business Book)",
+    "language": "Spanish",
+    "notes": "",
+    "year": null,
+    "words": "antonio barcelona carmen domingo espan~a/enrique francia gerona historia italia/i_latina jose'/jaen kilo le'rida madrid navarra oviedo portugal/pari's queso ramo'n/roma sevilla tarragona/toledo ursula/ubeda valencia washington xilofo'n yegua zaragoza"
+  },
+  {
+    "name": "Langenscheidt Phrase Book",
+    "language": "Spanish",
+    "notes": "",
+    "year": null,
+    "words": "antonio bogota' carmen dora enrique francisco gibraltar historia ine's jose' kilo lorenzo me'xico nicaragua oce'ano paraguay querido ramo'n sa'bado toma's ulises venezuela washington xiquena yegua zaragoza"
+  },
+  {
+    "name": "Berlitz phrase book (Latin American)",
+    "language": "Spanish",
+    "notes": "",
+    "year": null,
+    "words": "amalia beatriz carmen domingo enrique federico guatemala honduras ida jose' kilo lima me'xico nicaragua olimpo pablo quito rafael santiago teresa uruguay venezuela washington xilo'fono yucata'n zorro"
+  },
+  {
+    "name": "AA phrase book (Latin American)",
+    "language": "Spanish",
+    "notes": "",
+    "year": null,
+    "words": "ana bueno carlos dedo eduardo francia gato historia ine's jose' kilo luis madrid norma omar pedro querido ramo'n sa'bado teresa ulises victor washington xiquena y zaragoza"
+  },
+  {
+    "name": "Used in Argentina",
+    "language": "Spanish",
+    "notes": "",
+    "year": null,
+    "words": "alicia beatriz carolina dorotea eva federico guillermina hombre ines josefina kilo lola maria natalia ofelia pandora quintana rosa sara teresa ursula veronica washington xilofon yolanda zapato"
+  },
+  {
+    "name": "Morse Code Mnemonics",
+    "language": "Spanish",
+    "notes": "syllable with 'o' means dash.used by Scouts in Mexico",
+    "year": null,
+    "words": "asno bobadilla corazones dozena el fumarola gorrones himalaya ibis jabonoso kopeco limonada moro nogal oporto pelotones qocolizo revolver sardina tos unico ventilador wagogo xochimilco yodicoso zocoyula"
+  },
+  {
+    "name": "Azores Telephone Directory",
+    "language": "Portuguese",
+    "notes": "",
+    "year": 1966,
+    "words": "aveiro braga coimbra dafundo e'vora faro guarda horta ita'lia jose' kodak lisboa maria nazare' ovar porto queluz rossio setu'bal tavira unidade vidago waldemar xavier york zulmira"
+  },
+  {
+    "name": "Collins Phrase Books",
+    "language": "Portuguese",
+    "notes": "",
+    "year": null,
+    "words": "alexandre banana/bastos carlos daniel eduardo franc,a gabriel holanda ita'lia jose' k lisboa maria nicolau o'scar paris quarto ricardo susana teresa ulisses venezuela w xangai y zebra"
+  },
+  {
+    "name": "AA Phrase Book",
+    "language": "Portuguese",
+    "notes": "",
+    "year": null,
+    "words": "ame'rica bernardo colo'nia dinamarca espanha franc,a gre'cia holanda irlanda japa~o kremlin londres madrid na'poles oslo portugal quilo ru'ssia sue'cia turquia uruguai vito'ria washington xangai y zurique"
+  },
+  {
+    "name": "Collins Dictionary",
+    "language": "Portuguese",
+    "notes": "",
+    "year": null,
+    "words": "anto^nio beatriz carlos dado eliane francisco gomes henrique irene jose' ka'tia lu'cia maria nair osvaldo pedro quintela/quinteta roberto sandra tereza u'rsula vera william xavier yolanda zebra"
+  },
+  {
+    "name": "A come Ancona",
+    "language": "Italian",
+    "notes": "[Hacca should be Acca]",
+    "year": null,
+    "words": "ancona, bologna, como, domodossola, empoli, firenze, genova, hacca, imola, jolly, kappa, livorno, milano, napoli, otranto, pisa/palermo, quartomiglio, roma, savona/siena, torino, udine, venezia, wagner, xilofono, york, zara"
+  },
+  {
+    "name": "Cassel Language Book",
+    "language": "Italian",
+    "notes": "",
+    "year": null,
+    "words": "ancona bologna cagliari domodossola empoli firenze genova hotel imola jolly kappa londra milano napoli otranto palermo quarto roma sondrio torino udine vicenza w x yugoslavia zagabria"
+  },
+  {
+    "name": "BBC language book",
+    "language": "Italian",
+    "notes": "",
+    "year": null,
+    "words": "ancona bologna como domodossola empoli firenze genova hotel imola jersey kilo livorno milano napoli otranto palermo quaderno roma savona torino udine venezia washington x york zurigo"
+  },
+  {
+    "name": "Italian Untitled",
+    "language": "Italian",
+    "notes": "",
+    "year": null,
+    "words": "ancona bari como domodossola empoli firenze genova h imola jolly k livorno milano napoli otranto palermo quartomiglio roma siena torino udine venezia walter x york zurigo"
+  },
+  {
+    "name": "Collins Phrase Book",
+    "language": "Italian",
+    "notes": "",
+    "year": null,
+    "words": "ancona bari como domodossola empoli firenze genova hotel imola j k livorno milano napoli otranto palermo quarto roma savona torino udine venezia w x y zara"
+  },
+  {
+    "name": "Langenscheidt Phrase Book",
+    "language": "Italian",
+    "notes": "",
+    "year": null,
+    "words": "ancona bologna como domodossola empoli forli` genova hotel imola jolanda kappa livorno milano napoli otranto pisa quattro roma salerno torino udine venezia washington x ypsilon zeta"
+  },
+  {
+    "name": "Swiss Telephone Directory (Romansh)",
+    "language": "Romansh",
+    "notes": "",
+    "year": null,
+    "words": "anna berta carla dora emil flurin guido hugo ida judit kilo luisa maria nesa otto paula quirin rita silvia toni ursin victor willi xaver yvonne zita"
+  },
+  {
+    "name": "Berlitz Phrase Book",
+    "language": "Danish",
+    "notes": "",
+    "year": null,
+    "words": "anna bernhard cecilia david erik frederik georg hans ida johan karen ludvig marie nikolaj odin peter quintus rasmus soeren theodor ulla viggo william xerxes yrsa zacharias"
+  },
+  {
+    "name": "Norwegian",
+    "language": "Norwegian",
+    "notes": "",
+    "year": null,
+    "words": "anna bernhard caesar david edith fredrik gustav harald ivar johan karin ludvig martin nils olivia petter quintus rikard sigrid teodor ulrik enkelt w xerxes yngling zakarias"
+  },
+  {
+    "name": "Swedish",
+    "language": "Swedish",
+    "notes": "where A~ is A with circle [above also in Routledge grammar book].Berlitz phrase book: Qvintus].[telephone directory: Qvintus Willhelm]",
+    "year": null,
+    "words": "adam bertil cesar david erik filip gustav helge ivar johan kalle ludvig martin niklas olof petter quintus rudolf sigurd tore urban viktor wilhelm xerxes yngve zata"
+  },
+  {
+    "name": "Early 20th Century Swedish",
+    "language": "Swedish",
+    "notes": "Old phonetics for digits 1-9, 0: Anna Beda Cecilia Dora Ebba Fina Greta Hedda Ida Julia",
+    "year": 1930,
+    "words": "aron bertil cesar david emanuel frans gustaf harald ivar johan kalle lars martin niklas olof petter qvintus rudolf sigurd teodor urban viktor wilhelm xenofon yngve zakarias"
+  },
+  {
+    "name": "Berlitz Phrase Book (Finnish)",
+    "language": "Finnish",
+    "notes": "Morse code:..-.- a-umlaut..- -.- a-circle.- - -. o-umlaut",
+    "year": null,
+    "words": "anna bertta cecilia daavid erkki faarao gabriel heikki iivari jaakko kalle lauri mikko niilo otto pekka quintus risto sakari tauno urho vaino kaksin xeres yrjo zeppelin"
+  },
+  {
+    "name": "Czech Ministry of Transport and Communication",
+    "language": "Czech",
+    "notes": "",
+    "year": null,
+    "words": "adam boz~ena cyril david emil frantis~ek gustav helena ivan josef karel ludvi'k marie norbert oto petr quido rudolf svatopluk toma's~ urban va'clav dvojite'-v xaver ypsilon zuzana"
+  },
+  {
+    "name": "Morse Code Mnemonics",
+    "language": "Czech",
+    "notes": "Led_ni' ho_kej, Na'_rod, Se_ky_ra, U_c~e_ny', Vy_no_bra_ni', Y' se stra'_ci'",
+    "year": null,
+    "words": "ak_a't bly'_ska_vi_ce ci'_lo_vni'_ci da'_la_va erb fi_li_pi'_ny gro'_nska' hra_cho_vi_na i_bis jas_mi'n kra'_ko_ra' lu_pi'_ne_c~ek ma'_va' na'_stup o'na's~ pa_pi'r_ni'_ci kvi'_li' ra_ra'_s~ek so_bo_ta to'n ul_ic~_ni'k vy_u_c~e_ny' wa_go'n xe'_no_kra_te's y'_gar zna'_ma'"
+  },
+  {
+    "name": "Warsaw Telephone Directory",
+    "language": "Polish",
+    "notes": "",
+    "year": null,
+    "words": "adam barbara celina danuta ewa franciszek genowefa henryk irena jadwiga karol leon maria natalia olga pawel q roman stanisl/aw tadeusz urszula v wl/adysl/aw xantypa ygrek zygmunt"
+  },
+  {
+    "name": "Polish Amateur Radio",
+    "language": "Polish",
+    "notes": "",
+    "year": null,
+    "words": "adam bozena celina dawid ewa franek grazyna henryk irena janusz kilo ludwik maria natalia olga pawel quido roman stefan tomasz urban violeta wanda xawer ygrek zygmunt"
+  },
+  {
+    "name": "Berlitz Phrase Book",
+    "language": "Polish",
+    "notes": "",
+    "year": null,
+    "words": "adam barbara celina dorota ewa franciszek grazyna henryk iwona jan karol leon maria natalia olga piotr quiz roman stanisl/aw tadeusz urszula violeta wacl/aw xymena ypsylon zenon"
+  },
+  {
+    "name": "Hungarian Telephone Directory",
+    "language": "Hungarian",
+    "notes": "",
+    "year": null,
+    "words": "andra's be'la cecil do'ra eleme'r ferenc gizella hajnalka istva'n ja'nos katalin luca ma'tya's na'ndor olga piroska queen ro'bert sarolta ti'mea ubul vilmos walter xe'nia ypsilon zolta'n"
+  },
+  {
+    "name": "Croatian",
+    "language": "Croatian",
+    "notes": "",
+    "year": null,
+    "words": "adria biokovo cavtat dubrovnik europa frankopan gospic hrvatska istra jadran karlovac lika mostar novska osijek pula q rijeka split trogir uc~ka vukovar w x y zagreb"
+  },
+  {
+    "name": "Serbo-Croat",
+    "language": "Serbo-Croat",
+    "notes": "",
+    "year": null,
+    "words": "avala beograd cetinje dubrovnik evropa foc~a gorica hercegovina istra jadran kosovo lika mostar nis~ osijek pirot q rijeka skopje titograd uros~evac valjevo w x y zagreb"
+  },
+  {
+    "name": "Slovenian",
+    "language": "Slovenian",
+    "notes": "",
+    "year": null,
+    "words": "ankaran bled celje drava evropa fala gorica hrastnik izola jadran kamnik ljubljana maribor nanos ormoz~ piran q ravne soc~a triglav unec velenje dvojni-v iks ipsilon zalog"
+  },
+  {
+    "name": "Romanian",
+    "language": "Romanian",
+    "notes": "",
+    "year": null,
+    "words": "ana barbu constantin dumitru elena florea gheorghe haralambie ion jiu kilogram laza~r maria nicolae olga petre qu radu sandoo tudor udrea vasile dublu_v xenia i_grec zaha~r"
+  },
+  {
+    "name": "Turkish",
+    "language": "Turkish",
+    "notes": "",
+    "year": null,
+    "words": "ankara bursa ceyhan denizli edirne fatsa giresun hopa isparta jale kayseri luleburgaz manisa nazilli ordu pazar q rize samsun trabzon urfa van w x yalova zonguldak"
+  },
+  {
+    "name": "Berlitz Phrase Book",
+    "language": "Turkish",
+    "notes": "",
+    "year": null,
+    "words": "adana balikesir ceyhan diyarbakir edirne fatsa giresun hatay irmak jandarma kastamonu luleburgaz manisa nazilli ordu pazar quebek rize samsun trabzon urla van dubel_v xavier yozgat zonguldak"
+  },
+  {
+    "name": "Turkish Telephone Directory",
+    "language": "Turkish",
+    "notes": "",
+    "year": 1982,
+    "words": "ankara bursa ceyhan denizli edirne fatih giresun hakkari izmir japonya kayseri luleburgaz malatya nevsehir ordu polatli q rize sivas trabzon unye van w x yozgat zonguldak"
+  },
+  {
+    "name": "Berlitz Phrase Book",
+    "language": "Hebrew",
+    "notes": "[used by telephone operators in Israel]",
+    "year": null,
+    "words": "affula binyamina carmel dalia eretz france gedera haifa israel jaffa karkur lod moledet naan ogen pardes queen rishon sefer tveria urim vered wingate express yavniel zikhron"
+  },
+  {
+    "name": "New Hebrew",
+    "language": "Hebrew",
+    "notes": "",
+    "year": null,
+    "words": "afula binyamina karmel dalya eretz frans gedera eyfa yisrael jafa karkur lod moledet naan ogen pardes kvin rishon sefer tverya urim vered vingeyt x yavniel zikhron"
+  },
+  {
+    "name": "Swahili",
+    "language": "Swahili",
+    "notes": "",
+    "year": null,
+    "words": "aali bibi cyprus daniel elfu fiwi gombe henry ida jinja kenya leso mtu nairobi olga paul quebec robert sana tanga unga victor william xavier yatima zanzibar"
+  },
+  {
+    "name": "Swahili (Newer)",
+    "language": "Swahili",
+    "notes": "",
+    "year": null,
+    "words": "ali banda chakechake dodoma entebe fumba gogo homa imba jambo kenya lala mama nakuru ona punda q rangi simu tatu uganda vitu wali x yai zanzibar"
+  },
+  {
+    "name": "Kwanyama",
+    "language": "Kwanyama",
+    "notes": "South-western Bantu. northern Namibia",
+    "year": null,
+    "words": "anna beata cesilia david eva feni gerson hosea immanuel johanna kayosho lamek maria nande otto pauli quini rauha simon tuuli ulania vilho wilkka xokulu yoleni zola"
+  },
+  {
+    "name": "Ndonga",
+    "language": "Ndonga",
+    "notes": "school book",
+    "year": null,
+    "words": "anna beata cesilia david eva feni gerson hosea immanuel johanna kayoso lamek maria nande otto pauli quini rauha simon tuuliki ulania vilho wilika xerxes yoleni zola"
+  },
+  {
+    "name": "Afrikaans",
+    "language": "Afrikaans",
+    "notes": "Johannesburg telephone directory",
+    "year": 1965,
+    "words": "andries boetie christo dawid eva fanie gert hendrik isak jan karel lena marie nellie oom pieter queenie roos sannie tom unie venter willem straal yster zoeloe"
+  },
+  {
+    "name": "Chinese",
+    "language": "Chinese (Romanized Mandarin)",
+    "notes": "The Chinese armed forces use this in connection with Romanized Mandarin.",
+    "year": null,
+    "words": "aiya boli ciqi desheng egu fuzhuang geming heping yifu j keren leguan mofan nali ouyang polang q riguang sixiang tebie weida wudao wuzhuang x yisheng zidian"
+  }
+]

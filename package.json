@@ -1,0 +1,22 @@
+{
+  "name": "acrophonic-alphabets",
+  "version": "1.0.0",
+  "description": "A collection of 92 Alpha-Bravo-Charlie-style alphabets from around the world.",
+  "main": "alphabets.json",
+  "repository": "github:zeke/acrophonic-alphabets",
+  "keywords": [
+    "alphabet",
+    "language",
+    "spelling",
+    "acrophony",
+    "translation",
+    "transliteration",
+    "alliteration"
+  ],
+  "author": "zeke",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zeke/acrophonic-alphabets/issues"
+  },
+  "homepage": "https://github.com/zeke/acrophonic-alphabets#readme"
+}

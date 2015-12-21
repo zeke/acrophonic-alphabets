@@ -1,5 +1,6 @@
 [
   {
+    "id": "nato-0",
     "name": "NATO",
     "language": "English",
     "notes": "This alphabet dates from about 1955 and is approved by the International Civil Aviation Organization, the FAA and the International Telecommunication Union. note that different bodies prefer different spellings, so one also sees: Alfa Juliett Juliette Oskar Viktor",
@@ -34,6 +35,7 @@
     ]
   },
   {
+    "id": "telecom-b-1",
     "name": "Telecom B",
     "language": "English",
     "notes": "Found also in Swedish, Dutch, Hungarian telephone directories. An 'analogy alphabet' in a Kenyan directory has Charlie and no Y. A Swiss directory: Andrew Charlie Lussy Queenie Sugar. French/German vocabulary books: Andrew Charlie Lucy Mike Nelly Sugar Xmas. English phrase books for Spanish/Italian speakers: Charlie. A 'British English' alphabet in a Langenscheidt dictionary: Andrew Charlie Lucy Queenie Sugar Xmas. Norwegian dictionary: Andrew Charlie Lucy Sugar Victory Xerxes. Collins Polish dictionary: Andrew Charlie Lucy Sugar Xmas..Used as an English alphabet by telephone operators in Israel",
@@ -68,6 +70,7 @@
     ]
   },
   {
+    "id": "british-a-2",
     "name": "British A",
     "language": "English",
     "notes": "An 'international' alphabet in a Dutch telephone directory has: Danemark. A 'French' alphabet in a Hungarian directory has: Cassablanka Danemark Que'bec Upsala Zu\"rich. An 'international' alphabet in a business book for French has: Italy Kilogram Zu\"rich. the corresponding book for German has: Italy Kilogram Xanthippe Zu\"rich. An 'international' alphabet in a Langenscheidt dictionary: Danemark Madagaskar Que'bec Upsala Xanthippe Zu\"rich. An 'international' alphabet in a Larousse business book: Danemark Je'rusalem Que'bec Xanthippe..West Berlin telephone directory 1965: Danemark Je'rusalem Madagaskar Que'bec Upsala Xanthippe Zu\"rich. Santa Fe (Argentina) 1955: Dinamarca Habana Jerusale'n Kilogramo Nueva_York N~andubay Upsala Wa'shington Xantipo Yokoama. Azores 1966: Danemark Ita'lia Jerusale'm New-York Que'bec Upsala Yokoham..Used as a French alphabet by telephone operators in Israel",
@@ -102,6 +105,7 @@
     ]
   },
   {
+    "id": "bombay-telephone-directory-3",
     "name": "Bombay Telephone Directory",
     "language": "English",
     "notes": "",
@@ -136,6 +140,7 @@
     ]
   },
   {
+    "id": "kenyan-and-tanzanian-telephone-directories-4",
     "name": "Kenyan and Tanzanian Telephone Directories",
     "language": "English",
     "notes": "",
@@ -170,6 +175,7 @@
     ]
   },
   {
+    "id": "johannesburg-telephone-directory-5",
     "name": "Johannesburg Telephone Directory",
     "language": "English",
     "notes": "Note similarity to Alfred Benjamin",
@@ -204,6 +210,7 @@
     ]
   },
   {
+    "id": "malayan-telephone-directory-6",
     "name": "Malayan Telephone Directory",
     "language": "English",
     "notes": "",
@@ -238,6 +245,7 @@
     ]
   },
   {
+    "id": "new-york-city-police-7",
     "name": "New York City Police",
     "language": "English",
     "notes": "Note similarity to ARRL and Western Union..Variants: Eddie Larry Nancy Thomas Yankee Yellow",
@@ -272,6 +280,7 @@
     ]
   },
   {
+    "id": "nassau-county-police,-long-island,-new-york-8",
     "name": "Nassau County Police, Long Island, New York",
     "language": "English",
     "notes": "",
@@ -306,6 +315,7 @@
     ]
   },
   {
+    "id": "san-diego-pollice,-california-9",
     "name": "San Diego Pollice, California",
     "language": "English",
     "notes": "",
@@ -340,6 +350,7 @@
     ]
   },
   {
+    "id": "hutchinson,-kansas-police-10",
     "name": "Hutchinson, Kansas Police",
     "language": "English",
     "notes": "",
@@ -374,6 +385,7 @@
     ]
   },
   {
+    "id": "amateur-radio-11",
     "name": "Amateur Radio",
     "language": "English",
     "notes": "Alternative phonetics sometimes used unofficially in amateur radio..Also: Amsterdam, Baltimore, Brazil, Chile, Egypt, Finland, Geneva, Greece, Guatemala, Hawaii, Italy, Kentucky, King, Luxembourg, Montreal, Nicaragua, Portugal, Romania, Russia, Sweden, Texas, Uruguay, Venezuela",
@@ -408,6 +420,7 @@
     ]
   },
   {
+    "id": "arrl-(american-radio-relay-league)-12",
     "name": "ARRL (American Radio Relay League)",
     "language": "English",
     "notes": "Note similarity to Western Union and Able Baker..Nowadays the ARRL endorses the NATO/ICAO/ITU alphabet",
@@ -442,6 +455,7 @@
     ]
   },
   {
+    "id": "pre-1954-u.s.-navy-radio-13",
     "name": "Pre-1954 U.S. Navy Radio",
     "language": "English",
     "notes": "(Communications Handbook, 1945)..Note similarity to Able Buy Cast..Formerly used by IBM engineers for hex digits and pin positions. still used at at least one site.",
@@ -476,6 +490,7 @@
     ]
   },
   {
+    "id": "raf-14",
     "name": "RAF",
     "language": "English",
     "notes": "",
@@ -510,6 +525,7 @@
     ]
   },
   {
+    "id": "us-navy-15",
     "name": "US Navy",
     "language": "English",
     "notes": "",
@@ -544,6 +560,7 @@
     ]
   },
   {
+    "id": "western-union-16",
     "name": "Western Union",
     "language": "English",
     "notes": "",
@@ -578,6 +595,7 @@
     ]
   },
   {
+    "id": "british-army-17",
     "name": "British Army",
     "language": "English",
     "notes": "",
@@ -612,6 +630,7 @@
     ]
   },
   {
+    "id": "raf-18",
     "name": "RAF",
     "language": "English",
     "notes": "",
@@ -646,6 +665,7 @@
     ]
   },
   {
+    "id": "royal-navy-19",
     "name": "Royal Navy",
     "language": "English",
     "notes": "Wrens at Bletchley Park: Apple James Kenneth(?) Oliver Peter Quagga Unicorn William Xray",
@@ -680,6 +700,7 @@
     ]
   },
   {
+    "id": "us-army-20",
     "name": "US Army",
     "language": "English",
     "notes": "",
@@ -714,6 +735,7 @@
     ]
   },
   {
+    "id": "british-(perhaps-post-office-approved)-21",
     "name": "British (perhaps Post Office approved)",
     "language": "English",
     "notes": "",
@@ -748,6 +770,7 @@
     ]
   },
   {
+    "id": "british-forces-22",
     "name": "British Forces",
     "language": "English",
     "notes": "The OED has a reference for Beer and Emma dated 1891",
@@ -782,6 +805,7 @@
     ]
   },
   {
+    "id": "a-comme-anatole-23",
     "name": "A comme Anatole",
     "language": "French",
     "notes": "Contributor: Erik Tjong Kim Sang <erikt@let.rug.nl>",
@@ -816,6 +840,7 @@
     ]
   },
   {
+    "id": "swiss-telephone-directory-24",
     "name": "Swiss Telephone Directory",
     "language": "French",
     "notes": "",
@@ -850,6 +875,7 @@
     ]
   },
   {
+    "id": "oup-vocabulary-book-25",
     "name": "OUP Vocabulary Book",
     "language": "French",
     "notes": "",
@@ -884,6 +910,7 @@
     ]
   },
   {
+    "id": "langenscheidt-phrase-book-26",
     "name": "Langenscheidt Phrase Book",
     "language": "French",
     "notes": "",
@@ -918,6 +945,7 @@
     ]
   },
   {
+    "id": "larousse-business-book-27",
     "name": "Larousse Business Book",
     "language": "French",
     "notes": "Belgian versions: Caesar Fre'de'rique kilogram Sophie Ce'sar Emile Simon Xanthippe..Note: there are some parallel French/Dutch alphabets for use in Belgium",
@@ -952,6 +980,7 @@
     ]
   },
   {
+    "id": "berlitz-and-aa-phrase-books-28",
     "name": "Berlitz and AA phrase books",
     "language": "French",
     "notes": "with the addition of E'mile for e-acute this is the official Post Office alphabet",
@@ -986,6 +1015,7 @@
     ]
   },
   {
+    "id": "official-german-emergency-services-29",
     "name": "Official German Emergency Services",
     "language": "German",
     "notes": "Contributor: Hermann Schumacher <hschu@ebs.e-technik.uni-ulm.de> (official alphabet for emergency services, from \"KatS-Dv 810 - Sprechfunkdienst\", 1977)",
@@ -1020,6 +1050,7 @@
     ]
   },
   {
+    "id": "another-german-alphabet-30",
     "name": "Another German Alphabet",
     "language": "German",
     "notes": "Contributor: mrosa@eso.org (Michael Rosa)",
@@ -1054,6 +1085,7 @@
     ]
   },
   {
+    "id": "another-german-alphabet-31",
     "name": "Another German Alphabet",
     "language": "German",
     "notes": "",
@@ -1088,6 +1120,7 @@
     ]
   },
   {
+    "id": "swiss-telephone-directory-32",
     "name": "Swiss Telephone Directory",
     "language": "German",
     "notes": "[also Geneva directory 1966]",
@@ -1122,6 +1155,7 @@
     ]
   },
   {
+    "id": "deutsche-bundespost-33",
     "name": "Deutsche Bundespost",
     "language": "German",
     "notes": "",
@@ -1156,6 +1190,7 @@
     ]
   },
   {
+    "id": "german-untitled-34",
     "name": "German Untitled",
     "language": "German",
     "notes": "",
@@ -1190,6 +1225,7 @@
     ]
   },
   {
+    "id": "oup-vocabulary-book-35",
     "name": "OUP Vocabulary Book",
     "language": "German",
     "notes": "",
@@ -1224,6 +1260,7 @@
     ]
   },
   {
+    "id": "collins-vocabulary-book-36",
     "name": "Collins vocabulary book",
     "language": "German",
     "notes": "",
@@ -1258,6 +1295,7 @@
     ]
   },
   {
+    "id": "cassel-business-book-37",
     "name": "Cassel business book",
     "language": "German",
     "notes": "",
@@ -1292,6 +1330,7 @@
     ]
   },
   {
+    "id": "bbc-business-book-(standard-phone-alphabet)-38",
     "name": "BBC Business Book (Standard Phone Alphabet)",
     "language": "German",
     "notes": "",
@@ -1326,6 +1365,7 @@
     ]
   },
   {
+    "id": "collins-phrase-book-39",
     "name": "Collins Phrase Book",
     "language": "German",
     "notes": "",
@@ -1360,6 +1400,7 @@
     ]
   },
   {
+    "id": "world-war-ii-40",
     "name": "World War II",
     "language": "German",
     "notes": "(B-Bruno and F-Fritz were used in aircraft designations.)",
@@ -1394,6 +1435,7 @@
     ]
   },
   {
+    "id": "morse-code-mnemonics-41",
     "name": "Morse Code Mnemonics",
     "language": "German",
     "notes": "(syllable with 'o' means dash).oe Oekonomie.ue Ueberkonto",
@@ -1428,6 +1470,7 @@
     ]
   },
   {
+    "id": "a-van-anna-42",
     "name": "A van Anna",
     "language": "Dutch",
     "notes": "Contributor: Erik Tjong Kim Sang <erikt@let.rug.nl>",
@@ -1462,6 +1505,7 @@
     ]
   },
   {
+    "id": "collins-phrase-book-43",
     "name": "Collins Phrase Book",
     "language": "Dutch",
     "notes": "",
@@ -1496,6 +1540,7 @@
     ]
   },
   {
+    "id": "van-dale-french-dutch-dictionary-44",
     "name": "Van Dale French-Dutch dictionary",
     "language": "Dutch",
     "notes": "",
@@ -1530,6 +1575,7 @@
     ]
   },
   {
+    "id": "belgian-(flemish)-45",
     "name": "Belgian (Flemish)",
     "language": "Dutch",
     "notes": "[Note: there are some parallel French/Dutch alphabets for use in Belgium] Contributor: Erik Tjong Kim Sang <erikt@let.rug.nl>",
@@ -1564,6 +1610,7 @@
     ]
   },
   {
+    "id": "van-dale-french-dutch-dictionary-46",
     "name": "Van Dale French-Dutch dictionary",
     "language": "Dutch",
     "notes": "",
@@ -1598,6 +1645,7 @@
     ]
   },
   {
+    "id": "collins-and-berlitz-phrase-books-47",
     "name": "Collins and Berlitz phrase books",
     "language": "Spanish",
     "notes": "[An AA phrase book has \"i griega\" for Y] [Collins dictionary and grammar: similar but Ine's/Israel Querido/Quebec Ulises/Uruguay]",
@@ -1632,6 +1680,7 @@
     ]
   },
   {
+    "id": "madrid-ministries-48",
     "name": "Madrid Ministries",
     "language": "Spanish",
     "notes": "",
@@ -1666,6 +1715,7 @@
     ]
   },
   {
+    "id": "the-telephonist's-alphabet-(business-book)-49",
     "name": "The Telephonist's Alphabet (Business Book)",
     "language": "Spanish",
     "notes": "",
@@ -1700,6 +1750,7 @@
     ]
   },
   {
+    "id": "langenscheidt-phrase-book-50",
     "name": "Langenscheidt Phrase Book",
     "language": "Spanish",
     "notes": "",
@@ -1734,6 +1785,7 @@
     ]
   },
   {
+    "id": "berlitz-phrase-book-(latin-american)-51",
     "name": "Berlitz phrase book (Latin American)",
     "language": "Spanish",
     "notes": "",
@@ -1768,6 +1820,7 @@
     ]
   },
   {
+    "id": "aa-phrase-book-(latin-american)-52",
     "name": "AA phrase book (Latin American)",
     "language": "Spanish",
     "notes": "",
@@ -1802,6 +1855,7 @@
     ]
   },
   {
+    "id": "used-in-argentina-53",
     "name": "Used in Argentina",
     "language": "Spanish",
     "notes": "",
@@ -1836,6 +1890,7 @@
     ]
   },
   {
+    "id": "morse-code-mnemonics-54",
     "name": "Morse Code Mnemonics",
     "language": "Spanish",
     "notes": "syllable with 'o' means dash.used by Scouts in Mexico",
@@ -1870,6 +1925,7 @@
     ]
   },
   {
+    "id": "azores-telephone-directory-55",
     "name": "Azores Telephone Directory",
     "language": "Portuguese",
     "notes": "",
@@ -1904,6 +1960,7 @@
     ]
   },
   {
+    "id": "collins-phrase-books-56",
     "name": "Collins Phrase Books",
     "language": "Portuguese",
     "notes": "",
@@ -1938,6 +1995,7 @@
     ]
   },
   {
+    "id": "aa-phrase-book-57",
     "name": "AA Phrase Book",
     "language": "Portuguese",
     "notes": "",
@@ -1972,6 +2030,7 @@
     ]
   },
   {
+    "id": "collins-dictionary-58",
     "name": "Collins Dictionary",
     "language": "Portuguese",
     "notes": "",
@@ -2006,6 +2065,7 @@
     ]
   },
   {
+    "id": "a-come-ancona-59",
     "name": "A come Ancona",
     "language": "Italian",
     "notes": "[Hacca should be Acca]",
@@ -2040,6 +2100,7 @@
     ]
   },
   {
+    "id": "cassel-language-book-60",
     "name": "Cassel Language Book",
     "language": "Italian",
     "notes": "",
@@ -2074,6 +2135,7 @@
     ]
   },
   {
+    "id": "bbc-language-book-61",
     "name": "BBC language book",
     "language": "Italian",
     "notes": "",
@@ -2108,6 +2170,7 @@
     ]
   },
   {
+    "id": "italian-untitled-62",
     "name": "Italian Untitled",
     "language": "Italian",
     "notes": "",
@@ -2142,6 +2205,7 @@
     ]
   },
   {
+    "id": "collins-phrase-book-63",
     "name": "Collins Phrase Book",
     "language": "Italian",
     "notes": "",
@@ -2176,6 +2240,7 @@
     ]
   },
   {
+    "id": "langenscheidt-phrase-book-64",
     "name": "Langenscheidt Phrase Book",
     "language": "Italian",
     "notes": "",
@@ -2210,6 +2275,7 @@
     ]
   },
   {
+    "id": "swiss-telephone-directory-(romansh)-65",
     "name": "Swiss Telephone Directory (Romansh)",
     "language": "Romansh",
     "notes": "",
@@ -2244,6 +2310,7 @@
     ]
   },
   {
+    "id": "berlitz-phrase-book-66",
     "name": "Berlitz Phrase Book",
     "language": "Danish",
     "notes": "",
@@ -2278,6 +2345,7 @@
     ]
   },
   {
+    "id": "norwegian-67",
     "name": "Norwegian",
     "language": "Norwegian",
     "notes": "",
@@ -2312,6 +2380,7 @@
     ]
   },
   {
+    "id": "swedish-68",
     "name": "Swedish",
     "language": "Swedish",
     "notes": "where A~ is A with circle [above also in Routledge grammar book].Berlitz phrase book: Qvintus].[telephone directory: Qvintus Willhelm]",
@@ -2346,6 +2415,7 @@
     ]
   },
   {
+    "id": "early-20th-century-swedish-69",
     "name": "Early 20th Century Swedish",
     "language": "Swedish",
     "notes": "Old phonetics for digits 1-9, 0: Anna Beda Cecilia Dora Ebba Fina Greta Hedda Ida Julia",
@@ -2380,6 +2450,7 @@
     ]
   },
   {
+    "id": "berlitz-phrase-book-(finnish)-70",
     "name": "Berlitz Phrase Book (Finnish)",
     "language": "Finnish",
     "notes": "Morse code:..-.- a-umlaut..- -.- a-circle.- - -. o-umlaut",
@@ -2414,6 +2485,7 @@
     ]
   },
   {
+    "id": "czech-ministry-of-transport-and-communication-71",
     "name": "Czech Ministry of Transport and Communication",
     "language": "Czech",
     "notes": "",
@@ -2448,6 +2520,7 @@
     ]
   },
   {
+    "id": "morse-code-mnemonics-72",
     "name": "Morse Code Mnemonics",
     "language": "Czech",
     "notes": "Led_ni' ho_kej, Na'_rod, Se_ky_ra, U_c~e_ny', Vy_no_bra_ni', Y' se stra'_ci'",
@@ -2482,6 +2555,7 @@
     ]
   },
   {
+    "id": "warsaw-telephone-directory-73",
     "name": "Warsaw Telephone Directory",
     "language": "Polish",
     "notes": "",
@@ -2516,6 +2590,7 @@
     ]
   },
   {
+    "id": "polish-amateur-radio-74",
     "name": "Polish Amateur Radio",
     "language": "Polish",
     "notes": "",
@@ -2550,6 +2625,7 @@
     ]
   },
   {
+    "id": "berlitz-phrase-book-75",
     "name": "Berlitz Phrase Book",
     "language": "Polish",
     "notes": "",
@@ -2584,6 +2660,7 @@
     ]
   },
   {
+    "id": "hungarian-telephone-directory-76",
     "name": "Hungarian Telephone Directory",
     "language": "Hungarian",
     "notes": "",
@@ -2618,6 +2695,7 @@
     ]
   },
   {
+    "id": "croatian-77",
     "name": "Croatian",
     "language": "Croatian",
     "notes": "",
@@ -2652,6 +2730,7 @@
     ]
   },
   {
+    "id": "serbo-croat-78",
     "name": "Serbo-Croat",
     "language": "Serbo-Croat",
     "notes": "",
@@ -2686,6 +2765,7 @@
     ]
   },
   {
+    "id": "slovenian-79",
     "name": "Slovenian",
     "language": "Slovenian",
     "notes": "",
@@ -2720,6 +2800,7 @@
     ]
   },
   {
+    "id": "romanian-80",
     "name": "Romanian",
     "language": "Romanian",
     "notes": "",
@@ -2754,6 +2835,7 @@
     ]
   },
   {
+    "id": "turkish-81",
     "name": "Turkish",
     "language": "Turkish",
     "notes": "",
@@ -2788,6 +2870,7 @@
     ]
   },
   {
+    "id": "berlitz-phrase-book-82",
     "name": "Berlitz Phrase Book",
     "language": "Turkish",
     "notes": "",
@@ -2822,6 +2905,7 @@
     ]
   },
   {
+    "id": "turkish-telephone-directory-83",
     "name": "Turkish Telephone Directory",
     "language": "Turkish",
     "notes": "",
@@ -2856,6 +2940,7 @@
     ]
   },
   {
+    "id": "berlitz-phrase-book-84",
     "name": "Berlitz Phrase Book",
     "language": "Hebrew",
     "notes": "[used by telephone operators in Israel]",
@@ -2890,6 +2975,7 @@
     ]
   },
   {
+    "id": "new-hebrew-85",
     "name": "New Hebrew",
     "language": "Hebrew",
     "notes": "",
@@ -2924,6 +3010,7 @@
     ]
   },
   {
+    "id": "swahili-86",
     "name": "Swahili",
     "language": "Swahili",
     "notes": "",
@@ -2958,6 +3045,7 @@
     ]
   },
   {
+    "id": "swahili-(newer)-87",
     "name": "Swahili (Newer)",
     "language": "Swahili",
     "notes": "",
@@ -2992,6 +3080,7 @@
     ]
   },
   {
+    "id": "kwanyama-88",
     "name": "Kwanyama",
     "language": "Kwanyama",
     "notes": "South-western Bantu. northern Namibia",
@@ -3026,6 +3115,7 @@
     ]
   },
   {
+    "id": "ndonga-89",
     "name": "Ndonga",
     "language": "Ndonga",
     "notes": "school book",
@@ -3060,6 +3150,7 @@
     ]
   },
   {
+    "id": "afrikaans-90",
     "name": "Afrikaans",
     "language": "Afrikaans",
     "notes": "Johannesburg telephone directory",
@@ -3094,6 +3185,7 @@
     ]
   },
   {
+    "id": "chinese-91",
     "name": "Chinese",
     "language": "Chinese (Romanized Mandarin)",
     "notes": "The Chinese armed forces use this in connection with Romanized Mandarin.",

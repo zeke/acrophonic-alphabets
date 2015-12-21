@@ -25,5 +25,8 @@
   },
   "scripts": {
     "test": "standard --format && mocha"
+  },
+  "dependencies": {
+    "lodash.uniq": "^3.2.2"
   }
 }

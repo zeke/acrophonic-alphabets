@@ -1,6 +1,6 @@
 {
   "name": "acrophonic-alphabets",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "description": "A collection of 92 Alpha-Bravo-Charlie-style alphabets from around the world.",
   "main": "alphabets.json",
   "repository": "github:zeke/acrophonic-alphabets",
